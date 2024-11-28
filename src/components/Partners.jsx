@@ -18,7 +18,7 @@ const Partners =()=>{
      <div className='w-full  bg-[#f0ebeb]'>
     {/* <h1 className='text-4xl font-bold text-center'>Our Partners</h1> */}
     <div className=' flex items-center flex-wrap flex-col md:flex-row place-content-center gap-10 py-5 px-10'>
-      <Marquee pauseOnHover className="[--duration:20s] gap-7" repeat={100} >
+      <Marquee  className="[--duration:20s] gap-7 max-w-full overflow-clip" repeat={100} >
       {partners.map((partner)=>(
         <div key={partner._id} className='flex items-center justify-evenly p-2 px-10 w-[80%] md:w-[30%]'>
         
