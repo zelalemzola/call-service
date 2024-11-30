@@ -10,7 +10,7 @@ export default function Hero(){
             <h1 className='text-2xl md:text-6xl font-bold md:font-medium text-[#141414] text-center z-20'>Comprehensive <span className='text-primary '>Call Center</span><br/>Solutions for your Business.</h1>
              </BlurFade>
              <FadeText
-                className="text-gray-400 text-lg md:text-xl text-center justify-center w-[90%] md:w-[60%] z-20"
+                className="text-gray-400 text-lg md:text-xl text-center mx-auto justify-center w-[90%] md:w-[60%] z-20"
                 direction="left"
                 framerProps={{
                     show: { transition: { delay: 0.55 } },
