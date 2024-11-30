@@ -7,14 +7,14 @@ const Services = () => {
   return (
       <div className='px-6 md:px-20 h-auto py-10 md:py-20'>
        <div className='flex flex-col items-center justify-center gap-5'>
-          <h1 className='text-3xl md:text-5xl'>Our Services</h1>
+          <h1 className='text-4xl md:text-5xl'>Our Services</h1>
             <p className="text-gray-400 text-md md:text-lg md:w-[60%] text-center">
                 At Elibat, we specialize in providing comprehensive call center solutions for businesses. We offer a wide range of services to help you optimize your outsourcing budget and enhance your business performance.
             </p>
         </div> 
         <div className=" w-full py-8 md:py-20 flex flex-col-reverse md:flex-row items-center gap-3 md:gap-0">
             <div className='flex-1 flex flex-col items-center md:items-start gap-5'>
-                <h2 className='text-[#141414] text-3xl md:text-4xl '>Call Center Optimization</h2>
+                <h2 className='text-[#141414] text-2xl md:text-4xl '>Call Center Optimization</h2>
                 <p className="text-center  md:text-start text-gray-400 text-md md:text-lg">
                     We help businesses optimize their call center operations by providing strategic solutions, such as improved staffing levels, better communication channels, and more efficient workflows.
                 </p>
@@ -26,7 +26,7 @@ const Services = () => {
         </div>
         <div className=" w-full py-8 md:py-20 flex flex-col-reverse md:flex-row-reverse items-center gap-3 md:gap-0">
             <div className='flex-1 flex flex-col items-center md:items-start gap-5'>
-                <h2 className='text-[#141414] text-3xl md:text-4xl '>Call Center Optimization</h2>
+                <h2 className='text-[#141414] text-2xl md:text-4xl '>Call Center Optimization</h2>
                 <p className="text-center  md:text-start text-gray-400 text-md md:text-lg">
                     We help businesses optimize their call center operations by providing strategic solutions, such as improved staffing levels, better communication channels, and more efficient workflows.
                 </p>
@@ -38,7 +38,7 @@ const Services = () => {
         </div>
         <div className=" w-full py-8 md:py-20 flex flex-col-reverse md:flex-row items-center gap-3 md:gap-0">
             <div className='flex-1 flex flex-col items-center md:items-start gap-5'>
-                <h2 className='text-[#141414] text-3xl md:text-4xl '>Call Center Optimization</h2>
+                <h2 className='text-[#141414] text-2xl md:text-4xl '>Call Center Optimization</h2>
                 <p className="text-center  md:text-start text-gray-400 text-md md:text-lg">
                     We help businesses optimize their call center operations by providing strategic solutions, such as improved staffing levels, better communication channels, and more efficient workflows.
                 </p>
