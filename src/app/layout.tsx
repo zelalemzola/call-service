@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 // import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
+
 import { Poppins } from "next/font/google";
+import Footer from "@/components/Footer";
 // const geistSans = localFont({
 //   src: "./fonts/GeistVF.woff",
 //   variable: "--font-geist-sans",
@@ -34,7 +35,7 @@ export default function RootLayout({
       >
         <Navbar />
         <div className='py-[5%] md:py-[5%]   h-auto md:h-[100%]'>{children}</div>
-        {/* <Footer/> */}
+        <Footer/>
       </body>
     </html>
   );
