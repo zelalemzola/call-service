@@ -29,7 +29,7 @@ export default function Hero(){
                 </BlurFade>
             </div>
            
-            <Image src='/call2.jpg' alt='call' height={230} width={230} className='object-cover rounded-2xl  hidden md:block absolute md:top-38 -z-5 right-12 shadow-2xl' />
+            <Image src='/call2.jpg' alt='call' height={230} width={230} className='object-cover rounded-2xl  hidden md:block absolute md:top-38 -z-20 right-12 shadow-2xl' />
            
             {/* <Image src='/headset.png' alt='call' height={80} width={80} className='object-cover  hidden md:block absolute md:top-[18%] -z-5 left-[8%] ' /> */}
        
