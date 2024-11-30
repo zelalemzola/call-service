@@ -3,7 +3,7 @@ import {ArrowRight} from 'lucide-react';
 import Image from 'next/image'
 export default function Hero(){
     return(
-        <div className='flex items-center flex-col justify-center gap-3 md:gap-6 md:h-screen relative px-6 md:px-20 py-10 md:py-0'>
+        <div className='flex items-center flex-col justify-center gap-3 md:gap-6 md:h-screen relative px-6 md:px-20 py-20 md:py-0'>
 
             <h1 className='text-2xl md:text-6xl font-bold md:font-medium text-[#141414] text-center z-20'>Comprehensive <span className='text-primary '>Call Center</span><br/>Solutions for your Business.</h1>
             <p className='text-gray-400 text-lg md:text-xl text-center justify-center w-[80%] md:w-[60%] z-20'>At Elibat, we understand the challenge businesses face in managing their outsourcing budget while striving to enhance.</p>
