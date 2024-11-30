@@ -10,19 +10,19 @@ const About = () => {
             </p>
         </div>
         <div className="flex flex-col md:flex-row items-center  gap-4 md:gap-7 py-5 md:py-10">
-            <div className="p-6 py-20 rounded-xl shadow-xl   border-gray-400 flex flex-col items-center gap-3 w-[60%] md:w-[23%] ">
+            <div className="p-6 py-20 rounded-xl shadow-xl   border-gray-400 flex flex-col items-center gap-3 w-[85%] md:w-[23%] ">
                 <h2 className="font-bold text-lg">Culture of Success</h2>
                 <p className='text-sm md:text-md text-gray-400 text-center'>Creating a culture of success within our organization is our primary goal </p>
             </div>
-            <div className="p-6 py-20 rounded-xl shadow-xl   border-gray-400 flex flex-col items-center gap-3 w-[60%] md:w-[23%] ">
+            <div className="p-6 py-20 rounded-xl shadow-xl   border-gray-400 flex flex-col items-center gap-3 w-[85%] md:w-[23%] ">
                 <h2 className="font-bold text-lg">Culture of Success</h2>
                 <p className='text-sm md:text-md text-gray-400 text-center'>Creating a culture of success within our organization is our primary goal </p>
             </div>
-            <div className="p-6 py-20 rounded-xl shadow-xl   border-gray-400 flex flex-col items-center gap-3 w-[60%] md:w-[23%] ">
+            <div className="p-6 py-20 rounded-xl shadow-xl   border-gray-400 flex flex-col items-center gap-3 w-[85%] md:w-[23%] ">
                 <h2 className="font-bold text-lg">Culture of Success</h2>
                 <p className='text-sm md:text-md text-gray-400 text-center'>Creating a culture of success within our organization is our primary goal </p>
             </div>
-            <div className="p-6 py-20 rounded-xl shadow-xl   border-gray-400 flex flex-col items-center gap-3 w-[60%] md:w-[23%] ">
+            <div className="p-6 py-20 rounded-xl shadow-xl   border-gray-400 flex flex-col items-center gap-3 w-[85%] md:w-[23%] ">
                 <h2 className="font-bold text-lg">Culture of Success</h2>
                 <p className='text-sm md:text-md text-gray-400 text-center'>Creating a culture of success within our organization is our primary goal </p>
             </div>
