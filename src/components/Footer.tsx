@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col gap-4 items-start">
             <div className='flex items-end gap-3 flex-wrap'>
                
-                <p className='text-lg font-bold text-primary'>Elibat <span className='text-secondary'>Call Center</span></p>
+                <p className='text-lg font-bold text-primary'>Ayo <span className='text-secondary'>Call Center</span></p>
             </div>
             <p className="text-sm text-gray-400">Need experienced Call Center Service to provide your customers?<br/> <span className='text-secondary'> We've got you</span></p>
             <div className="flex flex-col items-start gap-3">
