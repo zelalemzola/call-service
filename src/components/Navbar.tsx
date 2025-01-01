@@ -28,7 +28,7 @@ const Navbar = () => {
       <Link href='https://t.me/+251944130549' className='hidden md:flex items-center gap-2 text-primary border-secondary p-2 px-3 rounded-full shadow-md hover:bg-secondary hover:text-white'>Contact US <ArrowRight/></Link>
       <Drawer>
         <DrawerTrigger>
-          <div href='/' className='flex md:hidden text-xl items-center gap-2 text-primary    hover:text-secondary'><Menu size={30} /></div>
+          <div className='flex md:hidden text-xl items-center gap-2 text-primary    hover:text-secondary'><Menu size={30} /></div>
 
         </DrawerTrigger>
         <DrawerContent>
