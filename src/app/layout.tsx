@@ -17,7 +17,7 @@ import Footer from "@/components/Footer";
 // });
 
 export const metadata: Metadata = {
-  title: "Elibat Call Center",
+  title: "Ayo  Call Center",
   description: "CAAS",
 };
 

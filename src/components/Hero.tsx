@@ -15,7 +15,7 @@ export default function Hero(){
                 framerProps={{
                     show: { transition: { delay: 0.55 } },
                 }}
-                text="At Elibat, we understand the challenge businesses face in managing their outsourcing budget while striving to enhance."
+                text="At Ayo, we understand the challenge businesses face in managing their outsourcing budget while striving to enhance."
             />  
             <BlurFade delay={0.35} inView={true} >  
             <Image src='/call2.jpg' alt='call' height={150} width={150} className='object-cover rounded-2xl block md:hidden shadow-2xl' />
