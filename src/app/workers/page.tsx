@@ -179,7 +179,7 @@ const Workers = () => {
         </Dialog>
       </div>
 
-      {(!maidsData || !categoriesData) ? <div className='pt-[40%] text-xl text-primary font-bold mx-auto'>Loading Physician...</div>
+      {(!maidsData || !categoriesData) ? <div className='pt-[40%] text-xl text-primary font-bold mx-auto'>Loading Professionals...</div>
         :
         <div className="flex flex-wrap items-center justify-center gap-x-2 md:gap-x-8 gap-y-20 py-20 pt-[27%] md:pt-[15%] z-0  h-full">
           {filteredMaids.map((maid) => (
