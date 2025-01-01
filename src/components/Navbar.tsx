@@ -38,7 +38,7 @@ const Navbar = () => {
             <Link className='text-gray-600 hover:bg-primary hover:text-white text-lg dark:text-white dark:hover:bg-secondary px-3 py-2 rounded-xl' href='/services'>Services</Link>
             <Link className='text-gray-600 hover:bg-primary hover:text-white text-lg dark:text-white dark:hover:bg-secondary px-3 py-2 rounded-xl' href='/blogs'>Blog</Link>
             <Link className='text-gray-600 hover:bg-primary hover:text-white text-lg dark:text-white dark:hover:bg-secondary px-3 py-2 rounded-xl' href='/workers'>Workers</Link>
-            <Link className='text-gray-600 hover:bg-primary hover:text-white text-lg dark:text-white dark:hover:bg-secondary px-3 py-2 rounded-xl' href='https://t.me/+251944130549'>Workers</Link>
+            <Link className='text-gray-600 hover:bg-primary hover:text-white text-lg dark:text-white dark:hover:bg-secondary px-3 py-2 rounded-xl' href='https://t.me/+251944130549'>Contact Us</Link>
 
           </div>
           <DrawerFooter>
